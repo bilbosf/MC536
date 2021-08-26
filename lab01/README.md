@@ -19,6 +19,4 @@ Estrutura de pastas:
 [Link para o notebook](https://github.com/bilbosf/MC536/lab01/notebook/lab01_api.ipynb)
 
 ## Tarefa 2 sobre Engenharia Reversa
-> Coloque a imagem do PNG do seu diagrama como ilustrado abaixo (a imagem estará na pasta `image`):
->
-> ![]()
+![Modelo Conceitual de parte da PokéAPI](images/modelo.png)
