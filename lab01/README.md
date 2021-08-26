@@ -16,7 +16,7 @@ Estrutura de pastas:
 
 ## Tarefa 1 sobre APIs de acesso
 
-[Link para o notebook](https://github.com/bilbosf/MC536/lab01/notebook/lab01_api.ipynb)
+[Link para o notebook](https://github.com/bilbosf/MC536/blob/main/lab01/notebook/lab01_api.ipynb)
 
 ## Tarefa 2 sobre Engenharia Reversa
 > Coloque a imagem do PNG do seu diagrama como ilustrado abaixo (a imagem estará na pasta `image`):
