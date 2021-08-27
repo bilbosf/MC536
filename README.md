@@ -1,3 +1,2 @@
 # Aluno
-- Antonio Gabriel da Silva Fernandes
-- RA: 231551
+* 231551: Antonio Gabriel da Silva Fernandes
