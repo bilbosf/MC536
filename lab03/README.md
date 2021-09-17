@@ -1,4 +1,4 @@
-# Modelo para Apresentação do Lab03 - SQL no NHANES
+# Lab03 - SQL no NHANES
 
 Estrutura de pastas:
 
